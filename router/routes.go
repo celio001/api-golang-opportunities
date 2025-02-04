@@ -1,8 +1,6 @@
 package router
 
 import (
-	"net/http"
-
 	"github.com/celio001/api-golang-opportunities.git/handler"
 	"github.com/gin-gonic/gin"
 )
